@@ -139,9 +139,9 @@ sub-DL15/ses-211014/ecephys/sub-DL15_ses-211014_ecephys.nwb
 sub-DL15/ses-211015/ecephys/sub-DL15_ses-211015_events.tsv
 sub-DL15/ses-211015/ecephys/sub-DL15_ses-211015_events.json
 sub-DL15/ses-211015/ecephys/sub-DL15_ses-211015_ecephys.nwb
-sub-Grid-9/ses-210821/ecephys/sub-Grid-9_ses-210821_events.tsv
-sub-Grid-9/ses-210821/ecephys/sub-Grid-9_ses-210821_events.json
-sub-Grid-9/ses-210821/ecephys/sub-Grid-9_ses-210821_ecephys.nwb
+sub-Grid+9/ses-210821/ecephys/sub-Grid+9_ses-210821_events.tsv
+sub-Grid+9/ses-210821/ecephys/sub-Grid+9_ses-210821_events.json
+sub-Grid+9/ses-210821/ecephys/sub-Grid+9_ses-210821_ecephys.nwb
 sub-DL18/ses-211110/ecephys/sub-DL18_ses-211110_events.tsv
 sub-DL18/ses-211110/ecephys/sub-DL18_ses-211110_events.json
 sub-DL18/ses-211110/ecephys/sub-DL18_ses-211110_ecephys.nwb
